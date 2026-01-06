@@ -43,7 +43,7 @@ export const HERO = {
   name: "Manoj Singh",
   greet: "Hello there! 👋🏻",
   description:
-    "I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 1 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.",
+    "I am a passionate full-stack developer focused on building scalable and user-friendly web applications. With 1+ year of hands-on experience, I work with React, Next.js, Node.js, and MongoDB to create impactful digital products that deliver real value.",
 };
 
 export const PROJECTS = [
@@ -153,8 +153,8 @@ export const PROJECTS = [
 // ];
 
 export const BIO = [
-  "I am a dedicated and versatile full-stack developer with a passion for creating efficient and user-friendly web applications. With 1 year of experience, I have worked with a variety of technologies, including React, Next.js, Node.js, and MongoDB. My journey in web development started with a deep curiosity for how things work, and it has evolved into a career where I constantly strive to learn and adapt to new challenges. I thrive in collaborative environments, enjoy solving complex problems, and delivering high-quality solutions. Outside of coding, I stay active, explore new technologies, and contribute to open-source projects."
-]
+  "I am a dedicated full-stack developer with a strong interest in building efficient and scalable web applications. With over a year of experience working with React, Next.js, Node.js, and MongoDB, I enjoy solving real-world problems through clean and maintainable code. I thrive in collaborative environments, continuously learn new technologies, and actively contribute to personal and open-source projects.",
+];
 
 // export const SKILLS = [
 //   {
@@ -191,49 +191,36 @@ export const BIO = [
 
 export const EXPERIENCES = [
   {
-    title: "Full-stack, Training-Internship",
-    company: "GeeksForGeeks",
-    duration: "13-Jul : 6-Oct (2024) ",
-    description: `I recently completed a three-month MERN stack internship at GeeksforGeeks, where I significantly enhanced my development skills. Through hands-on experience and mentorship, I successfully built two substantial projects that deepened my understanding of MongoDB, Express.js, React.js, and Node.js. This internship provided a valuable opportunity to learn from industry experts and grow my abilities as a full-stack developer.`
+    title: "Full-Stack Training Intern",
+    company: "GeeksforGeeks",
+    duration: "July 2024 – October 2024",
+    description:
+      "Completed a 3-month MERN stack internship where I built real-world projects and strengthened my understanding of MongoDB, Express.js, React.js, and Node.js under industry mentorship.",
   },
-  // {
-  //   title: "",
-  //   company: "No Industry work experience.",
-  //   duration: "-",
-  //   description: ` While I do not yet have formal industry experience, I have     completed several personal projects demonstrating my dedication and skills. I 
-  //       am eager to contribute with the same level of commitment and drive in a professional environment.`
-  // }
-
-  // {
-  //   title: "Lead Frontend Developer",
-  //   company: "Innovative Tech Solutions",
-  //   duration: "July 2020 - Present",
-  //   description:
-  //     "As the Lead Frontend Developer, I spearheaded the development of advanced web applications using cutting-edge technologies like React, Redux, and TypeScript. I worked closely with cross-functional teams, including designers, product managers, and backend developers, to deliver seamless and high-performance user experiences.",
-  // },
-  //   {
-  //     title: "Frontend Engineer",
-  //     company: "Digital Creations",
-  //     duration: "February 2016 - June 2020",
-  //     description:
-  //       "At Digital Creations, I focused on building highly interactive and responsive web interfaces using HTML, CSS, JavaScript, and modern libraries like React. I collaborated closely with UX/UI designers to implement design changes that enhanced user engagement and satisfaction. My role involved optimizing website performance, ensuring cross-browser compatibility, and implementing SEO best practices. ",
-  //   },
-  //   {
-  //     title: "Junior Web Developer",
-  //     company: "Bright Future Technologies",
-  //     duration: "August 2014 - January 2016",
-  //     description:
-  //       "In my role as a Junior Web Developer, I assisted in the development and maintenance of various web applications. I gained hands-on experience in utilizing HTML, CSS, and JavaScript to create user-friendly interfaces. I actively participated in team meetings, contributed to project planning, and collaborated with senior developers to implement new features.",
-  //   },
+  {
+    title: "Frontend Developer Intern",
+    company: "WS Mobility",
+    duration: "November 2024 – January 2025",
+    description:
+      "Worked as a Frontend Developer Intern focusing on building responsive and user-friendly web interfaces using React, JavaScript, HTML, and CSS. Collaborated with the design and backend teams to convert UI/UX designs into functional components, optimize performance, and ensure cross-device compatibility.",
+  },
+  {
+    title: "Freelance Web Developer",
+    company: "IGYAIN AI",
+    duration: "January 2025 – Present",
+    description:
+      "Worked as a freelance web developer on AI-based and business-focused web solutions. Developed responsive frontend components, integrated APIs, improved UI performance, and collaborated remotely with the AI team to deliver scalable and production-ready features using React and modern web technologies.",
+  },
 ];
+;
 
 export const EDUCATION = [
   {
     degree: "Bachelor of Computer Application ",
     institution: "Indira Gandhi National Open University",
-    duration: "June 2022 - (pursuing)",
+    duration: "June 2022 - 2025",
     description:
-      "Focused on web development, programming languages, and database management. Actively involved in coding clubs and hackathons, where I developed several web applications using HTML, CSS, JavaScript, and Completed a senior project on developing an e-commerce platform. Graduated with a high GPA.",
+      "Focused on programming, web development, and database management while building multiple real-world web applications.",
   },
 ];
 
